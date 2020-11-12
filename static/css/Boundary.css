@@ -1,0 +1,28 @@
+.name-border {
+  border: 1px solid black;
+}
+.xy-border {
+  border-bottom:1px solid black;
+}
+.padding-left-0 {
+  padding-left: 0 !important;
+}
+.padding-right-0 {
+  padding-right: 0 !important;
+}
+.padding-left-1 {
+  padding-left: 1rem !important;
+}
+.logo-name {
+  display: inline;
+  font-family: Microsoft JhengHei !important;
+}
+.logo {
+  max-width: 2rem;
+}
+.logo-color {
+  background: #00C2C2;
+}
+body {
+  background-color: #F5F5F5;
+}

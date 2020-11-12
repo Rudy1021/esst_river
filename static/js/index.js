@@ -134,6 +134,8 @@ $(document).on('click', '#new-submit', function() {
     },
   });
 });
+
+
 // 全部的資料表都是用這個
 $('#dataTable').DataTable({
   language: {
